@@ -9,12 +9,6 @@ import org.junit.jupiter.api.Test;
 
 public class VacancyTests extends TestBase {
 
-    @BeforeAll
-    static void beforeAll() {
-        Configuration.holdBrowserOpen = true;
-        Configuration.browserSize = "1920x1080";
-    }
-
     @DisplayName("Проверка заполнения формы с валидными данными")
     @Owner("Krysov")
     @Tag("PositiveFormTest")
