@@ -26,7 +26,7 @@ public class NavigationPage {
     }
 
     public void searchVacancyClick() {
-        step("Клик на 'Стажер - инженер по тестированию'", () -> {
+        step("Клик на 'Тестировщик (QA Engineer)' в разделе вакансии", () -> {
             searchVacancy.click();
         });
     }
