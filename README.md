@@ -110,7 +110,7 @@
 </p>
 
 ## <img src="images/logo/Allure_TO.svg" width="25" height="25"  alt="Allure"/></a> Интеграция с <a target="_blank" href="https://allure.autotests.cloud/project/2088/test-cases?treeId=0">Allure TestOps</a>
-<img title="TestOps" src="images/screens/to5.png" >
+<img title="TestOps" src="images/screens/to4.png" >
 
 
 ## <img src="images/logo/Jira.svg" width="25" height="25"  alt="Allure"/></a> Интеграция с <a target="_blank" href="https://jira.autotests.cloud/browse/HOMEWORK-621">Jira</a>
